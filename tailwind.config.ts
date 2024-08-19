@@ -21,6 +21,52 @@ const config = {
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
+        harley_davidson_orange:"#DD2E18",
+        orange_2:"#FFAB00",
+
+        blue_2:"#002349",
+        blue_3:"#106EBE",
+        blue_4:"#01257D",
+        blue_5:"#00FFFF",
+        blue_6:"#0A1828",
+        blue_7:"#178582",
+        blue_8:"#1D63FF",
+        
+
+        gold_2:"#957C3D",
+        gold_3:"#BFA181",
+
+        purple_2:"#4F0341",
+        purple_3:"#EE72F8",
+
+        pink_2:"#D8125B",
+        pink_3:"#970747",
+        pink_4:"#EF036C",
+
+        gray_2:"#2C2E39",
+
+        green_2:"#205A28",
+        green_3:"#009B4D",
+        green_4:"#31EC56",
+        green_5:"#BAFF39",
+
+        red_2:"#C72B32",
+        red_3:"#B4121B",
+        red_4:"#E7473C",
+
+        cream_2:"#FFFDF2",
+        cream_3:"#DDD0C8",
+        cream_4:"EAE7DD",
+
+        mint:"#0FFCBE",
+        ivory:"#FAF5E9",
+
+        yellow_2:"#FFCC00",
+        yellow_3:"#FFCE32",
+
+        brown_2:"#99775C",
+
+
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
