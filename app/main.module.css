@@ -1,0 +1,18 @@
+.radial_gradient_1 {
+    background: radial-gradient(circle at center, #DD2E18  20%, #FFAB00  100%);
+}
+.semi_radial_gradient_1{
+    
+    background: radial-gradient(circle at top, #DD2E18 40%, #FFAB00 100%); 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+}
+.linear_gradient_1{
+    background: linear-gradient(to left, #000000, #2ECC71);
+
+}
+.linear_gradient_2{
+    background: linear-gradient(to left, #000000, #808080, #DDD0C8);
+}
+
+
