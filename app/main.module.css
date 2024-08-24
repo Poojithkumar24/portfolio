@@ -3,7 +3,7 @@
 }
 .semi_radial_gradient_1{
     
-    background: radial-gradient(circle at top, #DD2E18 40%, #FFAB00 100%); 
+    background: radial-gradient(circle at top, #FFAB00 45%,  #DD2E18 100%); 
     background-position: top center; 
     background-repeat: no-repeat; 
 }
